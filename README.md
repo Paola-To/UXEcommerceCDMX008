@@ -39,7 +39,9 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 
 ## [Prototipo](https://www.figma.com/file/TkWIuUo3YLGdTiVjHnfnE9/Vidalis?node-id=0%3A1)
 
+## Anexo
 [Presentación a clientes](https://drive.google.com/file/d/1vJ4h7gW-KOJlCofYV9rqoQNKQQ7txrku/view)
+
 [Documentación del proceso](https://drive.google.com/drive/folders/1XOuOaduPrBs_weucfrEHXeFJjJvZ2JDA)
 
 
